@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# WhatsApp auth (NEVER commit - contains session keys)
+store/auth/
+
+# Message database (contains personal messages)
+store/messages.db
+
+# Personal data
+data/registered_groups.json
+data/sessions.json
+data/router_state.json
+
+# User groups (auto-generated on first use)
+groups/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Claude
+.claude/
+docs/

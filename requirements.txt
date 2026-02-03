@@ -1,0 +1,7 @@
+# PyClaw Dependencies
+
+# WhatsApp connection (built on Whatsmeow)
+neonize
+
+# Claude Agent SDK
+claude-agent-sdk
